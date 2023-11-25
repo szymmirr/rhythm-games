@@ -25,14 +25,52 @@ Finding this info online is a total chore so I just collected it in one place.
 - Rock Band Unplugged (PSP) - June 9, 2009
 - Guitar Hero Smash Hits (PS2, PS3, Wii, X360) - June 16, 2009
 
+## Guitarway To Heaven (PSP) series
+- Mainline
+  - Guitarway To Heaven - September 12-16, 2007 (Exact date unknown)
+  - Guitarway To Heaven 2 - December 25, 2007
+  - Guitarway To Heaven The Final Solo - February 28, 2008
+  - Guitarway To Heaven 4 Demo - April 28, 2008
+  - Guitarway To Heaven 4 Amplified - May 5, 2008
+  - Guitarway To Heaven Metallica - June 7, 2008
+  - Guitarway To Heaven Forever - June 30, 2008
+  - Guitarway To Heaven Riffs (not a game) - October 31, 2008
+  - Guitarway To Heaven 5 Superstar - April 14, 2009
+  - Guitarway To Heaven Slipknot - possibly August 21, 2009
+
+- Official song packs
+  - Guitarway To Heaven Avenged Sevenfold Song Pack - July 5, 2008
+  - Guitarway To Heaven Black Stone Cherry Song Pack - September 30, 2008
+  - Guitarway To Heaven Led Zeppelin Song Pack - October 15, 2008
+  - Guitarway To Heaven Saliva Song Pack - November 1, 2008
+  - Guitarway To Heaven Rammstein Song Pack - November 1, 2008
+  - Guitarway To Heaven Ozzy Osbourne Song Pack - December 21, 2008
+  - Guitarway To Heaven AC/DC Pack - February 8, 2009
+  - Guitarway To Heaven HIM Pack - January 15, 2009
+
+- Packs made by forum admins
+  - Guitarway To Heaven Forever: Cold Day In Hell - July 29, 2008
+  - Guitarway To Heaven Forever: Cold Day In Hell II - July 29, 2008
+  - Guitarway To Heaven Forever: Cold Day In Hell III - July 29, 2008
+  - Guitarway To Heaven Forever: Cold Day In Hell IV - July 29, 2008
+  - Guitarway To Heaven Forever: Dethklok Edition - August 31, 2008
+  - Guitarway To Heaven Forever: Nightmare Edition - August 31, 2008
+  - Guitarway To Heaven Forever: A Very Rock Christmas - October 31, 2008
+  - Guitarway To Heaven Kire's Pack - March 11, 2009
+  - Guitarway To Heaven Forever: Cold Day In Hell V - July 14, 2009
+  - Guitarway To Heaven Forever: Megadeth Preview Pack - July 21, 2009
+  - Guitarway To Heaven Scorpions Pack - August 31, 2009
+  - Guitarway To Heaven Guns N' Roses Pack - September 23, 2009
+
 ## Other games
 - StepMania (PC, OSX, Linux) - August 21, 2001
 - DJMax Online (PC) - June 13, 2004
 - UltraStar (PC) - August 22, 2004
+- PSP Revolution - October 31, 2005
 - osu! (PC, macOS) - September 16, 2007
 - UltraStar Deluxe (PC, OSX, Linux, macOS) - December 23, 2007
 
-## Cancelled game list
+## Cancelled games list
 - DJ Hero 3D (3DS)
 - Guitar Hero 7 (X360, PS3)
 - Michael Jackson: The Experience (OSX) - either cancelled, fake news or lost media
