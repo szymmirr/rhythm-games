@@ -25,7 +25,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - Rock Band Unplugged (PSP) - June 9, 2009
 - Guitar Hero Smash Hits (PS2, PS3, Wii, X360) - June 16, 2009
 
-## Guitarway To Heaven (PSP) series
+## Guitarway To Heaven series (PSP)
 - Mainline
   - Guitarway To Heaven - 2007
   - Guitarway To Heaven 2 - December 25, 2007
@@ -66,12 +66,12 @@ Finding this info online is a total chore so I just collected it in one place.
 - StepMania (PC, OSX, Linux) - August 21, 2001
 - DJMax Online (PC) - June 13, 2004
 - [SingStar series (PS2)](https://retrodetect.com/Research/details/245/Every-Singstar-PS-Game) - May 21, 2004
-- [SingStar series (PS3)](https://gamefaqs.gamespot.com/games/franchise/982-singstar) - December 6, 2007
-- [SingStar series (PS4)](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/) - October 24, 2014
 - UltraStar (PC) - August 22, 2004
-- PSP Revolution - October 31, 2005
+- PSP Revolution (PSP) - October 31, 2005
 - osu! (PC, macOS) - September 16, 2007
+- [SingStar series (PS3)](https://gamefaqs.gamespot.com/games/franchise/982-singstar) - December 6, 2007
 - UltraStar Deluxe (PC, OSX, Linux, macOS) - December 23, 2007
+- [SingStar series (PS4)](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/) - October 24, 2014
 
 ## Cancelled games list
 - DJ Hero 3D (3DS)
