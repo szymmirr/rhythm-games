@@ -27,7 +27,7 @@ Finding this info online is a total chore so I just collected it in one place.
 
 ## Guitarway To Heaven (PSP) series
 - Mainline
-  - Guitarway To Heaven - September 12-16, 2007 (Exact date unknown)
+  - Guitarway To Heaven - 2007
   - Guitarway To Heaven 2 - December 25, 2007
   - Guitarway To Heaven The Final Solo - February 28, 2008
   - Guitarway To Heaven 4 Demo - April 28, 2008
@@ -65,6 +65,9 @@ Finding this info online is a total chore so I just collected it in one place.
 ## Other games
 - StepMania (PC, OSX, Linux) - August 21, 2001
 - DJMax Online (PC) - June 13, 2004
+- [SingStar series (PS2)](https://retrodetect.com/Research/details/245/Every-Singstar-PS-Game) - May 21, 2004
+- [SingStar series (PS3)](https://gamefaqs.gamespot.com/games/franchise/982-singstar) - December 6, 2007
+- [SingStar series (PS4)](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/) - October 24, 2014
 - UltraStar (PC) - August 22, 2004
 - PSP Revolution - October 31, 2005
 - osu! (PC, macOS) - September 16, 2007
