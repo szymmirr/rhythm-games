@@ -27,7 +27,7 @@ Finding this info online is a total chore so I just collected it in one place.
 
 ## Guitarway To Heaven series (PSP)
 - Mainline
-  - Guitarway To Heaven - 2007
+  - Guitarway To Heaven - September, 2007
   - Guitarway To Heaven 2 - December 25, 2007
   - Guitarway To Heaven The Final Solo - February 28, 2008
   - Guitarway To Heaven 4 Demo - April 28, 2008
@@ -71,6 +71,10 @@ Finding this info online is a total chore so I just collected it in one place.
 - osu! (PC, macOS) - September 16, 2007
 - [SingStar series (PS3)](https://gamefaqs.gamespot.com/games/franchise/982-singstar) - December 6, 2007
 - UltraStar Deluxe (PC, OSX, Linux, macOS) - December 23, 2007
+- Michael Jackson: The Experience (Wii, PS3, X360) - November 23, 2010
+- Michael Jackson: The Experience (DS) - November 23, 2010
+- Michael Jackson: The Experience (PSP) - November 23, 2010
+- Michael Jackson: The Experience (3DS, iOS, PSV) - November 7, 2011
 - [SingStar series (PS4)](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/) - October 24, 2014
 
 ## Cancelled games list
