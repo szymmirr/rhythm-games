@@ -1,4 +1,4 @@
-# Rhythm Games
+# Rhythm games list
 
 Selected rhythm games and their initial release dates in chronological order. The general rule for my selection is games where you hit notes and FC songs. So a game like Rhythm Heaven, while being an excellent rhythm game, doesn't match the criteria.
 
@@ -64,17 +64,15 @@ Finding this info online is a total chore so I just collected it in one place.
 ## Other games
 - StepMania (PC, OSX, Linux) - August 21, 2001
 - DJMax Online (PC) - June 13, 2004
-- [SingStar series (PS2)](https://retrodetect.com/Research/details/245/Every-Singstar-PS-Game) - May 21, 2004
+- SingStar series ([PS2](https://retrodetect.com/Research/details/245/Every-Singstar-PS-Game), [PS3](https://gamefaqs.gamespot.com/games/franchise/982-singstar), [PS4](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/)) - May 21, 2004
 - UltraStar (PC) - August 22, 2004
 - PSP Revolution (PSP) - October 31, 2005
 - osu! (PC, macOS) - September 16, 2007
-- [SingStar series (PS3)](https://gamefaqs.gamespot.com/games/franchise/982-singstar) - December 6, 2007
 - UltraStar Deluxe (PC, OSX, Linux, macOS) - December 23, 2007
 - Michael Jackson: The Experience (Wii, PS3, X360) - November 23, 2010
 - Michael Jackson: The Experience (DS) - November 23, 2010
 - Michael Jackson: The Experience (PSP) - November 23, 2010
 - Michael Jackson: The Experience (3DS, iOS, PSV) - November 7, 2011
-- [SingStar series (PS4)](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/) - October 24, 2014
 
 ## Cancelled games list
 - DJ Hero 3D (3DS)
