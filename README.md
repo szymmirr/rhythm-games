@@ -1,12 +1,12 @@
 # Rhythm Games
 
-Selected rhythm games and their initial release dates in chronological order.
+Selected rhythm games and their initial release dates in chronological order. The general rule for my selection is games where you hit notes and FC songs. So a game like Rhythm Heaven, while being an excellent rhythm game, doesn't match the criteria.
 
-Different gameplay style = different game.
+Different gameplay style = different game. This is the reason you can see some games listed more than once (such as Band Hero).
 
 Finding this info online is a total chore so I just collected it in one place.
 
-## Hero series and inspired by
+## Hero series, RB series and games inspired by
 - Guitar Hero (PS2) - November 8, 2005
 - Guitar Hero II (PS2, X360) - November 7, 2006
 - Guitar Hero Encore: Rocks the 80s (PS2) - July 24, 2007
@@ -27,16 +27,15 @@ Finding this info online is a total chore so I just collected it in one place.
 
 ## Guitarway To Heaven series (PSP)
 - Mainline
-  - Guitarway To Heaven - September, 2007
+  - Guitarway To Heaven - September 2007
   - Guitarway To Heaven 2 - December 25, 2007
   - Guitarway To Heaven The Final Solo - February 28, 2008
   - Guitarway To Heaven 4 Demo - April 28, 2008
   - Guitarway To Heaven 4 Amplified - May 5, 2008
   - Guitarway To Heaven Metallica - June 7, 2008
   - Guitarway To Heaven Forever - June 30, 2008
-  - Guitarway To Heaven Riffs (not a game) - October 31, 2008
   - Guitarway To Heaven 5 Superstar - April 14, 2009
-  - Guitarway To Heaven Slipknot - possibly August 21, 2009
+  - Guitarway To Heaven Slipknot - possibly August 2009
 
 - Official song packs
   - Guitarway To Heaven Avenged Sevenfold Song Pack - July 5, 2008
