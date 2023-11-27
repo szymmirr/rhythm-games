@@ -31,7 +31,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - The Beatles: Rock Band (PS3, Wii, X360) - September 9, 2009
 - Rock Band Mobile (J2ME) - September 16, 2009
 - Rock Band Metal Track Pack (X360, PS3, PS2, Wii) - September 22, 2009
-- Rock Band (iOS, Android) - October 19, 2009
+- Rock Band (iOS, Android, webOS) - October 19, 2009
 - DJ Hero (PS2, PS3, Wii, X360) - October 27, 2009
 - Band Hero (PS2, PS3, Wii, X360) - November 3, 2009
 - Band Hero (DS) - November 3, 2009
@@ -44,7 +44,15 @@ Finding this info online is a total chore so I just collected it in one place.
 - DJ Hero 2 (PS3, Wii, X360) - October 19, 2010
 - Rock Band 3 (PS3, X360, Wii) - October 26, 2010
 - Rock Band 3 (DS) - October 26, 2010
+- Rock Band Reloaded (iOS) - December 2, 2010
+- Rock Band Reloaded (J2ME) - December 2010
 - Rock Band Country Track Pack 2 (X360, PS3, Wii) - February 1, 2011
+- Rock Band Blitz (PS3, X360) - August 28, 2012
+- Rock Band 3: Blitz Import (PS3, X360) - August 28, 2012
+- Rock Band 4 (PS4, XONE) - October 6, 2015
+- Guitar Hero Live (PS3, PS4, WiiU, X360, XONE, iOS) - October 20, 2015
+- Rock Band Rivals (PS4, XONE) - October 18, 2016
+- Rock Band VR (PC) - March 23, 2017
 
 ## Guitarway To Heaven series (PSP)
 - Mainline
@@ -90,6 +98,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - PSP Revolution (PSP) - October 31, 2005
 - osu! (PC, macOS) - September 16, 2007
 - UltraStar Deluxe (PC, macOS, Linux) - December 23, 2007
+- American Idol 2 (J2ME) - December 7, 2009
 - Michael Jackson: The Experience (Wii, PS3, X360) - November 23, 2010
 - Michael Jackson: The Experience (DS) - November 23, 2010
 - Michael Jackson: The Experience (PSP) - November 23, 2010
