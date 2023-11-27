@@ -1,6 +1,6 @@
 # Rhythm games list
 
-Selected rhythm games and their initial release dates in chronological order. The general rule for my selection is games where you hit notes and FC songs. So a game like Rhythm Heaven, while being an excellent rhythm game, doesn't match the criteria.
+Selected rhythm games and their initial release dates in chronological order. The general rule for my selection is games where you hit notes and FC songs. So for example Rhythm Heaven, while being an excellent rhythm game, doesn't match the criteria.
 
 Different gameplay style = different game. This is the reason you can see some games listed more than once (such as Band Hero).
 
@@ -22,8 +22,19 @@ Finding this info online is a total chore so I just collected it in one place.
 - Guitar Hero On Tour: Decades (DS) - November 16, 2008
 - Guitar Hero Arcade (Arcade) - March 15, 2009
 - Guitar Hero: Metallica (X360, PS3, Wii, PS2) - March 29, 2009
+- Rock Band Track Pack: Classic Rock (X360, PS3, PS2, Wii) - May 19, 2009
 - Rock Band Unplugged (PSP) - June 9, 2009
 - Guitar Hero Smash Hits (PS2, PS3, Wii, X360) - June 16, 2009
+- Rock Band Country Track Pack (X360, PS3, PS2, Wii) - July 21, 2009
+- Guitar Hero 5 (PS2, PS3, Wii, X360) - September 1, 2009
+- The Beatles: Rock Band (PS3, Wii, X360) - September 9, 2009
+- Rock Band Metal Track Pack (X360, PS3, PS2, Wii) - September 22, 2009
+- DJ Hero (PS2, PS3, Wii, X360) - October 27, 2009
+- Band Hero (PS2, PS3, Wii, X360) - November 3, 2009
+- Band Hero (DS) - November 3, 2009
+- LEGO Rock Band (PS3, Wii, X360) - November 3, 2009
+- LEGO Rock Band (DS) - November 3, 2009
+- Guitar Hero: Van Halen (PS2, PS3, Wii, X360) - December 22, 2009
 
 ## Guitarway To Heaven series (PSP)
 - Mainline
