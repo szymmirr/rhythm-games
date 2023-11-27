@@ -23,18 +23,28 @@ Finding this info online is a total chore so I just collected it in one place.
 - Guitar Hero Arcade (Arcade) - March 15, 2009
 - Guitar Hero: Metallica (X360, PS3, Wii, PS2) - March 29, 2009
 - Rock Band Track Pack: Classic Rock (X360, PS3, PS2, Wii) - May 19, 2009
+- Guitar Hero On Tour: Modern Hits (DS) - June 9, 2009
 - Rock Band Unplugged (PSP) - June 9, 2009
 - Guitar Hero Smash Hits (PS2, PS3, Wii, X360) - June 16, 2009
 - Rock Band Country Track Pack (X360, PS3, PS2, Wii) - July 21, 2009
 - Guitar Hero 5 (PS2, PS3, Wii, X360) - September 1, 2009
 - The Beatles: Rock Band (PS3, Wii, X360) - September 9, 2009
+- Rock Band Mobile (J2ME) - September 16, 2009
 - Rock Band Metal Track Pack (X360, PS3, PS2, Wii) - September 22, 2009
+- Rock Band (iOS, Android) - October 19, 2009
 - DJ Hero (PS2, PS3, Wii, X360) - October 27, 2009
 - Band Hero (PS2, PS3, Wii, X360) - November 3, 2009
 - Band Hero (DS) - November 3, 2009
 - LEGO Rock Band (PS3, Wii, X360) - November 3, 2009
 - LEGO Rock Band (DS) - November 3, 2009
 - Guitar Hero: Van Halen (PS2, PS3, Wii, X360) - December 22, 2009
+- Guitar Hero (iOS) - June 7, 2010
+- Green Day: Rock Band (PS3, Wii, X360) - June 8, 2010
+- Guitar Hero: Warriors of Rock (PS3, Wii, X360) - September 24, 2010
+- DJ Hero 2 (PS3, Wii, X360) - October 19, 2010
+- Rock Band 3 (PS3, X360, Wii) - October 26, 2010
+- Rock Band 3 (DS) - October 26, 2010
+- Rock Band Country Track Pack 2 (X360, PS3, Wii) - February 1, 2011
 
 ## Guitarway To Heaven series (PSP)
 - Mainline
@@ -79,7 +89,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - UltraStar (PC) - August 22, 2004
 - PSP Revolution (PSP) - October 31, 2005
 - osu! (PC, macOS) - September 16, 2007
-- UltraStar Deluxe (PC, OSX, Linux, macOS) - December 23, 2007
+- UltraStar Deluxe (PC, macOS, Linux) - December 23, 2007
 - Michael Jackson: The Experience (Wii, PS3, X360) - November 23, 2010
 - Michael Jackson: The Experience (DS) - November 23, 2010
 - Michael Jackson: The Experience (PSP) - November 23, 2010
