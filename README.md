@@ -12,12 +12,28 @@ Finding this info online is a total chore so I just collected it in one place.
 - Guitar Hero Encore: Rocks the 80s (PS2) - July 24, 2007
 - Guitar Hero III: Legends of Rock (PS2, PS3, Wii, X360, PC, OSX) - October 28, 2007
 - Rock Band (X360, PS3, PS2, Wii) - November 20, 2007
+- Guitar Hero III Mobile (BREW, J2ME, BlackBerry, Windows Mobile)
+  - BREW - December 5, 2007
+  - J2ME - March 3, 2008
+  - BB - April 1, 2008 (Newest version 2.2 released September 2, 2009)
+  - WM - April 9, 2008
 - Guitar Hero: On Tour (DS) - June 22, 2008
 - Guitar Hero: Aerosmith (PS2, PS3, Wii, X360, PC, OSX) - June 29, 2008
 - Rock Band Track Pack Vol. 1 (PS2, Wii) - July 15, 2008
+- Guitar Hero III: Backstage Pass (J2ME, BREW, BlackBerry)
+  - J2ME - July 18, 2008
+  - BREW - July 18, 2008
+  - BB - September 3, 2008 (Newest version 1.0.13 released July 30, 2009)
 - Rock Band 2 (X360, PS3, PS2, Wii) - September 14, 2008
 - Guitar Hero World Tour (X360, Wii, PS3, PS2, PC, OSX) - October 26, 2008
+- Guitar Hero III Mobile Song Pack 1 (J2ME) - October 2008
 - AC/DC Live: Rock Band Track Pack (X360, PS3, PS2, Wii) - November 2, 2008
+- Guitar Hero World Tour Mobile (J2ME, BREW, BlackBerry, Android, Windows Mobile)
+  - BREW - November 13, 2008
+  - J2ME - November 13, 2008
+  - BB - February 26th, 2009
+  - Android - March 4, 2009
+  - WM - 2009
 - Rock Band Track Pack Vol. 2 (X360, PS3, PS2, Wii) - November 18, 2008
 - Guitar Hero On Tour: Decades (DS) - November 16, 2008
 - Guitar Hero Arcade (Arcade) - March 15, 2009
