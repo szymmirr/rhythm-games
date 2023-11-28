@@ -28,12 +28,13 @@ Finding this info online is a total chore so I just collected it in one place.
 - Guitar Hero World Tour (X360, Wii, PS3, PS2, PC, OSX) - October 26, 2008
 - Guitar Hero III Mobile Song Pack 1 (J2ME) - October 2008
 - AC/DC Live: Rock Band Track Pack (X360, PS3, PS2, Wii) - November 2, 2008
-- Guitar Hero World Tour Mobile (J2ME, BREW, BlackBerry, Android, Windows Mobile)
+- Guitar Hero World Tour Mobile (J2ME, BREW, BlackBerry, Android, Windows Mobile, N-Gage)
   - BREW - November 13, 2008
   - J2ME - November 13, 2008
-  - BB - February 26th, 2009
+  - BB - February 26th, 2009 (Newest version 11.11.1 released January 12, 2010)
   - Android - March 4, 2009
   - WM - 2009
+  - N-Gage - September 18, 2009
 - Rock Band Track Pack Vol. 2 (X360, PS3, PS2, Wii) - November 18, 2008
 - Guitar Hero On Tour: Decades (DS) - November 16, 2008
 - Guitar Hero Arcade (Arcade) - March 15, 2009
@@ -54,6 +55,10 @@ Finding this info online is a total chore so I just collected it in one place.
 - LEGO Rock Band (PS3, Wii, X360) - November 3, 2009
 - LEGO Rock Band (DS) - November 3, 2009
 - Guitar Hero: Van Halen (PS2, PS3, Wii, X360) - December 22, 2009
+- Guitar Hero World Tour Mobile: Backstage Pass (BlackBerry, J2ME, Android)
+  - BB - April 28, 2010
+  - J2ME - May 13, 2010
+  - Android - May 13, 2010
 - Guitar Hero (iOS) - June 7, 2010
 - Green Day: Rock Band (PS3, Wii, X360) - June 8, 2010
 - Guitar Hero: Warriors of Rock (PS3, Wii, X360) - September 24, 2010
