@@ -6,7 +6,7 @@ Different gameplay style = different game. This is the reason you can see some g
 
 Finding this info online is a total chore so I just collected it in one place.
 
-## Hero series, RB series and games inspired by
+## Hero and RB series
 - Guitar Hero (PS2) - November 8, 2005
 - Guitar Hero II (PS2, X360) - November 7, 2006
 - Guitar Hero Encore: Rocks the 80s (PS2) - July 24, 2007
@@ -31,7 +31,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - Guitar Hero World Tour Mobile (J2ME, BREW, BlackBerry, Android, Windows Mobile, N-Gage)
   - BREW - November 13, 2008
   - J2ME - November 13, 2008
-  - BB - February 26th, 2009 (Newest version 11.11.1 released January 12, 2010)
+  - BB - February 26, 2009 (Newest version 11.11.1 released January 12, 2010)
   - Android - March 4, 2009 (Newest version 1.6.8 released 2010)
   - WM - 2009
   - N-Gage - August 27, 2009
@@ -96,6 +96,18 @@ Finding this info online is a total chore so I just collected it in one place.
 - Rock Band Rivals (PS4, XONE) - October 18, 2016
 - Rock Band VR (PC) - March 23, 2017
 
+## Other games with 5-fret controller support
+- Frets on Fire (PC, Linux, OSX) - August 3, 2006
+- Frets on Fire Alarian Mod (PC, OSX, Linux) - April 6, 2008
+- Rock Revolution (PS3, X360, Wii) - October 15, 2008
+- FoFiX (PC, Linux, OSX) - October 25, 2008
+- PopStar Guitar (Wii, PS2) - November 18, 2008
+- Phase Shift [Free] (PC) - March 20, 2010
+- SingStar Guitar (PS3) - October 15, 2010
+- Power Gig: Rise of the SixString (PS3, X360) - October 19, 2010
+- Clone Hero (PC, macOS, Linux) - March 1, 2017
+- Phase Shift [Steam] (PC) - April 25, 2019
+
 ## Guitarway To Heaven series (PSP)
 - Mainline
   - Guitarway To Heaven - September 2007
@@ -140,11 +152,17 @@ Finding this info online is a total chore so I just collected it in one place.
 - PSP Revolution (PSP) - October 31, 2005
 - osu! (PC, macOS) - September 16, 2007
 - UltraStar Deluxe (PC, macOS, Linux) - December 23, 2007
+- Rock Revolution (DS) - October 15, 2008
 - American Idol 2 (J2ME) - December 7, 2009
 - Michael Jackson: The Experience (Wii, PS3, X360) - November 23, 2010
 - Michael Jackson: The Experience (DS) - November 23, 2010
 - Michael Jackson: The Experience (PSP) - November 23, 2010
+- Rocksmith (PS3, X360, PC) - October 18, 2011
 - Michael Jackson: The Experience (3DS, iOS, PSV) - November 7, 2011
+- Rocksmith 2014 (PC, OSX, PS3, X360, PS4, XONE) - October 22, 2013
+- BandFuse: Rock Legends (X360, PS3) - November 19, 2013
+- Rocksmith (iOS) - May 17, 2017
+- Rocksmith+ (PC, Android, iOS) - September 6, 2022
 
 ## Cancelled games list
 - DJ Hero 3D (3DS)
