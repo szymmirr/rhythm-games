@@ -26,13 +26,13 @@ Finding this info online is a total chore so I just collected it in one place.
   - BB - September 3, 2008 (Newest version 1.0.13 released July 30, 2009)
 - Rock Band 2 (X360, PS3, PS2, Wii) - September 14, 2008
 - Guitar Hero World Tour (X360, Wii, PS3, PS2, PC, OSX) - October 26, 2008
-- Guitar Hero III Mobile Song Pack 1 (J2ME) - October 2008
+- Guitar Hero III Mobile Song Pack 1 (J2ME, BREW) - October 2008
 - AC/DC Live: Rock Band Track Pack (X360, PS3, PS2, Wii) - November 2, 2008
 - Guitar Hero World Tour Mobile (J2ME, BREW, BlackBerry, Android, Windows Mobile, N-Gage)
   - BREW - November 13, 2008
   - J2ME - November 13, 2008
   - BB - February 26th, 2009 (Newest version 11.11.1 released January 12, 2010)
-  - Android - March 4, 2009
+  - Android - March 4, 2009 (Newest version 1.6.8 released 2010)
   - WM - 2009
   - N-Gage - August 27, 2009
 - Rock Band Track Pack Vol. 2 (X360, PS3, PS2, Wii) - November 18, 2008
@@ -57,25 +57,38 @@ Finding this info online is a total chore so I just collected it in one place.
 - Guitar Hero 5 Mobile (J2ME, BREW, Android, Windows Mobile, webOS, BlackBerry, Windows Phone)
   - J2ME - November 24, 2009
   - BREW - November 24, 2009
-  - Android - 2009
+  - Android - 2009 (Newest version 1.3.1 released October 27, 2010)
   - WM - 2009
-  - webOS - 2009
-  - BB - January 19, 2010 (Newest version 2.0.0 released August 06, 2010)
+  - webOS - 2009 (Newest version 1.1.1 released 2010)
+  - BB - January 19, 2010 (Newest version 2.0.0 released August 6, 2010)
   - WP - October 21, 2010
 - Guitar Hero: Van Halen (PS2, PS3, Wii, X360) - December 22, 2009
-- Guitar Hero World Tour Mobile: Backstage Pass (BlackBerry, J2ME, Android)
+- Guitar Hero World Tour Mobile: Backstage Pass (BlackBerry, J2ME, BREW, Android)
   - BB - April 28, 2010
   - J2ME - May 13, 2010
+  - BREW - May 13, 2010
   - Android - May 13, 2010
 - Guitar Hero (iOS) - June 7, 2010
 - Green Day: Rock Band (PS3, Wii, X360) - June 8, 2010
+- Guitar Hero 5 Mobile: More Music (J2ME, BREW) - June 2010
+- DJ Hero Mobile (J2ME, BREW, BlackBerry, Android)
+  - J2ME - September 2, 2010
+  - BREW - September 2, 2010
+  - BB - September 8, 2010
+  - Android - July 12, 2011
 - Guitar Hero: Warriors of Rock (PS3, Wii, X360) - September 24, 2010
+- Guitar Hero: Warriors of Rock Mobile (J2ME, BREW, Android, BlackBerry)
+  - J2ME - October 7, 2010
+  - BREW - October 7, 2010
+  - Android - October 7, 2010 (Newest version 1.2.2 released March 23, 2011)
+  - BB - November 23, 2010
 - DJ Hero 2 (PS3, Wii, X360) - October 19, 2010
 - Rock Band 3 (PS3, X360, Wii) - October 26, 2010
 - Rock Band 3 (DS) - October 26, 2010
 - Rock Band Reloaded (iOS) - December 2, 2010
 - Rock Band Reloaded (J2ME) - December 2010
 - Rock Band Country Track Pack 2 (X360, PS3, Wii) - February 1, 2011
+- Guitar Hero: Warriors of Rock Mobile More Music (J2ME, BREW) - July 2011
 - Rock Band Blitz (PS3, X360) - August 28, 2012
 - Rock Band 3: Blitz Import (PS3, X360) - August 28, 2012
 - Rock Band 4 (PS4, XONE) - October 6, 2015
