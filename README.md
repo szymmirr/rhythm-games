@@ -46,9 +46,12 @@ Finding this info online is a total chore so I just collected it in one place.
 - Rock Band Country Track Pack (X360, PS3, PS2, Wii) - July 21, 2009
 - Guitar Hero 5 (PS2, PS3, Wii, X360) - September 1, 2009
 - The Beatles: Rock Band (PS3, Wii, X360) - September 9, 2009
-- Rock Band Mobile (J2ME) - September 16, 2009
+- Rock Band Mobile (J2ME, Windows Mobile) - September 16, 2009
 - Rock Band Metal Track Pack (X360, PS3, PS2, Wii) - September 22, 2009
-- Rock Band (iOS, Android, webOS) - October 19, 2009
+- Rock Band (iOS, webOS, Android)
+  - iOS - October 19, 2009
+  - webOS - 2010
+  - Android - 2011
 - DJ Hero (PS2, PS3, Wii, X360) - October 27, 2009
 - Band Hero (PS2, PS3, Wii, X360) - November 3, 2009
 - Band Hero (DS) - November 3, 2009
@@ -63,8 +66,9 @@ Finding this info online is a total chore so I just collected it in one place.
   - BB - January 19, 2010 (Newest version 2.0.0 released August 6, 2010)
   - WP - October 21, 2010
 - Guitar Hero: Van Halen (PS2, PS3, Wii, X360) - December 22, 2009
-- Guitar Hero World Tour Mobile: Backstage Pass (BlackBerry, J2ME, BREW, Android)
+- Guitar Hero World Tour Mobile: Backstage Pass (BlackBerry, Windows Mobile, J2ME, BREW, Android)
   - BB - April 28, 2010
+  - WM - 2010
   - J2ME - May 13, 2010
   - BREW - May 13, 2010
   - Android - May 13, 2010
