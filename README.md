@@ -37,7 +37,7 @@ Finding this info online is a total chore so I just collected it in one place.
   - N-Gage - August 27, 2009
 - Rock Band Track Pack Vol. 2 (X360, PS3, PS2, Wii) - November 18, 2008
 - Guitar Hero On Tour: Decades (DS) - November 16, 2008
-- Guitar Hero Arcade (Arcade) - March 15, 2009
+- Guitar Hero Arcade (Arcade) - March 15, 2009 (Newest version v1.56 released 2014)
 - Guitar Hero: Metallica (X360, PS3, Wii, PS2) - March 29, 2009
 - Rock Band Track Pack: Classic Rock (X360, PS3, PS2, Wii) - May 19, 2009
 - Guitar Hero On Tour: Modern Hits (DS) - June 9, 2009
@@ -150,6 +150,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - SingStar series ([PS2](https://retrodetect.com/Research/details/245/Every-Singstar-PS-Game), [PS3](https://gamefaqs.gamespot.com/games/franchise/982-singstar), [PS4](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/)) - May 21, 2004
 - UltraStar (PC) - August 22, 2004
 - PSP Revolution (PSP) - October 31, 2005
+- Guitar Legend: Get On Stage! (J2ME) - August 30, 2007
 - osu! (PC, macOS) - September 16, 2007
 - UltraStar Deluxe (PC, macOS, Linux) - December 23, 2007
 - Rock Revolution (DS) - October 15, 2008
