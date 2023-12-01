@@ -32,7 +32,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - Guitar Hero World Tour Mobile (J2ME, BREW, BlackBerry, Android, Windows Mobile, N-Gage)
   - BREW - November 13, 2008
   - J2ME - November 13, 2008
-  - BB - February 26, 2009 (Newest version 11.11.1 released January 12, 2010)
+  - BB - February 25, 2009 (Newest version 11.11.1 released January 12, 2010)
   - Android - March 4, 2009 (Newest version 1.6.8 released 2010)
   - WM - 2009
   - N-Gage - August 27, 2009
