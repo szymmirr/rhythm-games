@@ -55,7 +55,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - Rock Band Metal Track Pack (X360, PS3, PS2, Wii) - September 22, 2009
 - Rock Band (iOS, webOS, Android)
   - iOS - October 19, 2009
-  - webOS - 2010
+  - webOS - 2010 (Newest version 1.2.75 released 2010)
   - Android - 2011
 - DJ Hero (PS2, PS3, Wii, X360) - October 27, 2009
 - Band Hero (PS2, PS3, Wii, X360) - November 3, 2009
