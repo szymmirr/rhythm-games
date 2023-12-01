@@ -1,4 +1,4 @@
-# Rhythm games list
+# Rhythm/music games list
 
 Selected rhythm games and their initial release dates in chronological order. The general rule for my selection is games where you hit notes and FC songs. So for example Rhythm Heaven, while being an excellent rhythm game, doesn't match the criteria.
 
@@ -160,6 +160,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - SingStar series ([PS2](https://retrodetect.com/Research/details/245/Every-Singstar-PS-Game), [PS3](https://gamefaqs.gamespot.com/games/franchise/982-singstar), [PS4](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/)) - May 21, 2004
 - UltraStar (PC) - August 22, 2004
 - PSP Revolution (PSP) - October 31, 2005
+- Dance Dance Revolution (J2ME, BlackBerry) - May 2, 2006
 - Guitar Legend: Get On Stage! (J2ME) - August 30, 2007
 - osu! (PC, macOS) - September 16, 2007
 - UltraStar Deluxe (PC, macOS, Linux) - December 23, 2007
@@ -175,7 +176,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - Rocksmith (iOS) - May 17, 2017
 - Rocksmith+ (PC, Android, iOS) - September 6, 2022
 
-## Cancelled games list
+## Cancelled games
 - DJ Hero 3D (3DS)
 - Guitar Hero 7 (X360, PS3)
 - Michael Jackson: The Experience (OSX) - either cancelled, fake news or lost media
