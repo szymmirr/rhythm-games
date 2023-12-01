@@ -17,6 +17,7 @@ Finding this info online is a total chore so I just collected it in one place.
   - J2ME - March 3, 2008
   - BB - April 1, 2008 (Newest version 2.2 released September 2, 2009)
   - WM - April 9, 2008
+- Guitar Hero Carabiner - February 17, 2008
 - Guitar Hero: On Tour (DS) - June 22, 2008
 - Guitar Hero: Aerosmith (PS2, PS3, Wii, X360, PC, OSX) - June 29, 2008
 - Rock Band Track Pack Vol. 1 (PS2, Wii) - July 15, 2008
@@ -26,7 +27,7 @@ Finding this info online is a total chore so I just collected it in one place.
   - BB - September 3, 2008 (Newest version 1.0.13 released July 30, 2009)
 - Rock Band 2 (X360, PS3, PS2, Wii) - September 14, 2008
 - Guitar Hero World Tour (X360, Wii, PS3, PS2, PC, OSX) - October 26, 2008
-- Guitar Hero III Mobile Song Pack 1 (J2ME, BREW) - October 2008
+- Guitar Hero III Mobile: Song Pack 1 (J2ME, BREW) - October 2008
 - AC/DC Live: Rock Band Track Pack (X360, PS3, PS2, Wii) - November 2, 2008
 - Guitar Hero World Tour Mobile (J2ME, BREW, BlackBerry, Android, Windows Mobile, N-Gage)
   - BREW - November 13, 2008
@@ -37,6 +38,7 @@ Finding this info online is a total chore so I just collected it in one place.
   - N-Gage - August 27, 2009
 - Rock Band Track Pack Vol. 2 (X360, PS3, PS2, Wii) - November 18, 2008
 - Guitar Hero On Tour: Decades (DS) - November 16, 2008
+- Guitar Hero 2nd Edition Carabiner - December 2008
 - Guitar Hero Arcade (Arcade) - March 15, 2009 (Newest version v1.56 released 2014)
 - Guitar Hero: Metallica (X360, PS3, Wii, PS2) - March 29, 2009
 - Rock Band Track Pack: Classic Rock (X360, PS3, PS2, Wii) - May 19, 2009
@@ -111,6 +113,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - Power Gig: Rise of the SixString (PS3, X360) - October 19, 2010
 - Clone Hero (PC, macOS, Linux) - March 1, 2017
 - Phase Shift [Steam] (PC) - April 25, 2019
+- YARG (PC, Linux, macOS) - December 22, 2022
 
 ## Guitarway To Heaven series (PSP)
 - Mainline
