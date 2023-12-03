@@ -163,11 +163,16 @@ Finding this info online is a total chore so I just collected it in one place.
 - DrumMania (PS2) - March 4, 2000
 - StepMania (PC, OSX, Linux) - August 21, 2001
 - Frequency (PS2) - November 20, 2001
+- Britney's Dance Beat (GBA, PS2) - March 26, 2002
+- Britney's Dance Beat (PC) - June 20, 2002
 - Amplitude (PS2) - March 25, 2003
 - Karaoke Revolution (PS2) - October 24, 2003
+- American Idol (PS2, PC) - November 7, 2003
+- American Idol (GBA) - November 18, 2003
 - DJMax Online (PC) - June 13, 2004
 - SingStar series ([PS2](https://retrodetect.com/Research/details/245/Every-Singstar-PS-Game), [PS3](https://gamefaqs.gamespot.com/games/franchise/982-singstar), [PS4](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/)) - May 21, 2004
 - UltraStar (PC) - August 22, 2004
+- Get On Da Mic (PS2) - October 5, 2004
 - PSP Revolution (PSP) - October 31, 2005
 - Dance Dance Revolution (J2ME, BlackBerry) - May 2, 2006
 - Guitar Legend: Get On Stage! (J2ME) - August 30, 2007
@@ -177,10 +182,12 @@ Finding this info online is a total chore so I just collected it in one place.
 - Rock Revolution (DS) - October 15, 2008
 - Just Dance (Wii) - November 17, 2009
 - American Idol 2 (J2ME) - December 7, 2009
+- Def Jam Rapstar (PS3, Wii, X360) - October 5, 2010
 - Dance Central (X360) - November 4, 2010
 - Michael Jackson: The Experience (Wii, PS3, X360) - November 23, 2010
 - Michael Jackson: The Experience (DS) - November 23, 2010
 - Michael Jackson: The Experience (PSP) - November 23, 2010
+- Michael Jackson: The Experience Minigame (Facebook) - November 2010
 - Rocksmith (PS3, X360, PC) - October 18, 2011
 - Michael Jackson: The Experience (3DS, iOS, PSV) - November 7, 2011
 - A-Band (X360) - April 13, 2012
@@ -188,6 +195,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - BandFuse: Rock Legends (X360, PS3) - November 19, 2013
 - Record Run (iOS, Android) - May 8, 2014
 - Rocksmith (iOS) - May 17, 2017
+- Queen: Rock Tour - (iOS, Android) - March 1, 2021
 - Rocksmith+ (PC, Android, iOS) - September 6, 2022
 
 ## Cancelled games
