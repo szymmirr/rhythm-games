@@ -104,6 +104,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - Guitar Hero Live (PS3, PS4, WiiU, X360, XONE, iOS) - October 20, 2015
 - Rock Band Rivals (PS4, XONE) - October 18, 2016
 - Rock Band VR (PC) - March 23, 2017
+- Fortnite Festival (PC, macOS, PS4, XONE, Switch, Android, XSX, PS5) - December 9, 2023
 
 ## Other games with 5-fret controller support
 - Frets on Fire (PC, Linux, OSX) - August 3, 2006
