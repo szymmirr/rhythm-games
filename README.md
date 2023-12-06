@@ -130,7 +130,7 @@ Finding this info online is a total chore so I just collected it in one place.
   - Guitarway To Heaven Metallica - June 7, 2008
   - Guitarway To Heaven Forever - June 30, 2008
   - Guitarway To Heaven 5 Superstar - April 14, 2009
-  - Guitarway To Heaven Slipknot - possibly August 2009
+  - Guitarway To Heaven Slipknot - September 9, 2009
 
 - Official song packs
   - Guitarway To Heaven Avenged Sevenfold Song Pack - July 5, 2008
