@@ -77,7 +77,7 @@ Finding this info online is a total chore so I just collected it in one place.
   - J2ME - May 13, 2010
   - BREW - May 13, 2010
   - Android - May 13, 2010
-- Guitar Hero (iOS) - June 7, 2010
+- Guitar Hero (iOS) - June 7, 2010 (Newest version 2.1.0 released October 28, 2012)
 - Green Day: Rock Band (PS3, Wii, X360) - June 8, 2010
 - Guitar Hero 5 Mobile: More Music (J2ME, BREW) - June 2010
 - DJ Hero Mobile (J2ME, BREW, BlackBerry, Android)
@@ -179,9 +179,11 @@ Finding this info online is a total chore so I just collected it in one place.
 - osu! (PC, macOS) - September 16, 2007
 - Phase (iPod) - November 6, 2007
 - UltraStar Deluxe (PC, macOS, Linux) - December 23, 2007
+- Tap Tap Revenge (iOS) - July 11, 2008
 - Rock Revolution (DS) - October 15, 2008
 - Just Dance (Wii) - November 17, 2009
 - American Idol 2 (J2ME) - December 7, 2009
+- Zombeat (iOS) - December 21, 2009
 - Def Jam Rapstar (PS3, Wii, X360) - October 5, 2010
 - Dance Central (X360) - November 4, 2010
 - Michael Jackson: The Experience (Wii, PS3, X360) - November 23, 2010
