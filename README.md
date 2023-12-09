@@ -104,7 +104,6 @@ Finding this info online is a total chore so I just collected it in one place.
 - Guitar Hero Live (PS3, PS4, WiiU, X360, XB1, iOS) - October 20, 2015
 - Rock Band Rivals (PS4, XB1) - October 18, 2016
 - Rock Band VR (PC) - March 23, 2017
-- Twitch Sings (PC, macOS) - April 13, 2019
 - Fortnite Festival (PC, macOS, PS4, XB1, Switch, Android, XSX, PS5) - December 9, 2023
 
 ## Other games with 5-fret controller support
@@ -165,6 +164,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - Frequency (PS2) - November 20, 2001
 - Britney's Dance Beat (GBA, PS2) - March 26, 2002
 - Britney's Dance Beat (PC) - June 20, 2002
+- Taiko no Tatsujin: Tatakon de Dodon ga Don (PS2) - October 24, 2002
 - Amplitude (PS2) - March 25, 2003
 - Karaoke Revolution (PS2) - October 24, 2003
 - American Idol (PS2, PC) - November 7, 2003
@@ -173,14 +173,20 @@ Finding this info online is a total chore so I just collected it in one place.
 - SingStar series ([PS2](https://retrodetect.com/Research/details/245/Every-Singstar-PS-Game), [PS3](https://gamefaqs.gamespot.com/games/franchise/982-singstar), [PS4](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/)) - May 21, 2004
 - UltraStar (PC) - August 22, 2004
 - Get On Da Mic (PS2) - October 5, 2004
+- Osu! Tatakae! Ouendan (DS) - July 28, 2005
 - PSP Revolution (PSP) - October 31, 2005
 - Dance Dance Revolution (J2ME, BlackBerry) - May 2, 2006
+- Elite Beat Agents (DS) - November 8, 2006
+- Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan 2 (DS) - May 17, 2007
 - Guitar Legend: Get On Stage! (J2ME) - August 30, 2007
 - osu! (PC, macOS) - September 16, 2007
 - Phase (iPod) - November 6, 2007
 - UltraStar Deluxe (PC, macOS, Linux) - December 23, 2007
+- Metalocalypse: Deth Game (Flash) - January 2008
 - Tap Tap Revenge (iOS) - July 11, 2008
 - Rock Revolution (DS) - October 15, 2008
+- Lips (X360) - November 18, 2008
+- Metalocalypse: Deth Game II (Flash) - 2009
 - Just Dance (Wii) - November 17, 2009
 - American Idol 2 (J2ME) - December 7, 2009
 - Zombeat (iOS) - December 21, 2009
@@ -192,13 +198,24 @@ Finding this info online is a total chore so I just collected it in one place.
 - Michael Jackson: The Experience Minigame (Facebook) - November 2010
 - Rocksmith (PS3, X360, PC) - October 18, 2011
 - Michael Jackson: The Experience (3DS, iOS, PSV) - November 7, 2011
+- Theatrhythm Final Fantasy (3DS, iOS) - February 16, 2012
 - A-Band (X360) - April 13, 2012
 - Rocksmith 2014 (PC, OSX, PS3, X360, PS4, XB1) - October 22, 2013
 - BandFuse: Rock Legends (X360, PS3) - November 19, 2013
 - Record Run (iOS, Android) - May 8, 2014
+- Amplitude (PS4, PS3) - January 5, 2016
 - Rocksmith (iOS) - May 17, 2017
+- Twitch Sings (PC, macOS) - April 13, 2019
+- Beat Saber - May 21, 2019
 - Queen: Rock Tour - (iOS, Android) - March 1, 2021
 - Rocksmith+ (PC, Android, iOS) - September 6, 2022
+
+## Minigames
+- みんなの王子様 (DDR) - December 4, 2003
+- Metalocalypse: Dethgame (Guitar Hero) - August 22, 2009
+- Sleeping Dogs (Karaoke) - August 14, 2012
+- Yakuza 5 (Taiko) - December 5, 2012
+- Night In The Woods (Guitar Hero) - February 21, 2017
 
 ## Cancelled games
 - DJ Hero 3D (3DS)
