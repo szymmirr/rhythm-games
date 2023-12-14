@@ -186,6 +186,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - Tap Tap Revenge (iOS) - July 11, 2008
 - Rock Revolution (DS) - October 15, 2008
 - Lips (X360) - November 18, 2008
+- osu! (iOS) - January 21, 2009 (Newest version 0.1.9-1 released 2010)
 - Metalocalypse: Deth Game II (Flash) - 2009
 - Just Dance (Wii) - November 17, 2009
 - American Idol 2 (J2ME) - December 7, 2009
@@ -198,6 +199,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - Michael Jackson: The Experience Minigame (Facebook) - November 2010
 - Rocksmith (PS3, X360, PC) - October 18, 2011
 - Michael Jackson: The Experience (3DS, iOS, PSV) - November 7, 2011
+- osu!stream (iOS, Android) - August 1, 2011
 - Theatrhythm Final Fantasy (3DS, iOS) - February 16, 2012
 - A-Band (X360) - April 13, 2012
 - Rocksmith 2014 (PC, OSX, PS3, X360, PS4, XB1) - October 22, 2013
@@ -205,6 +207,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - Record Run (iOS, Android) - May 8, 2014
 - Amplitude (PS4, PS3) - January 5, 2016
 - Rocksmith (iOS) - May 17, 2017
+- iosu! (iOS) - May 17, 2017 (Newest version v0.3.1 released Dec 4, 2017)
 - Twitch Sings (PC, macOS) - April 13, 2019
 - Beat Saber - May 21, 2019
 - Queen: Rock Tour - (iOS, Android) - March 1, 2021
