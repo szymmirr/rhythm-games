@@ -202,6 +202,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - osu!stream (iOS, Android) - August 1, 2011
 - Theatrhythm Final Fantasy (3DS, iOS) - February 16, 2012
 - A-Band (X360) - April 13, 2012
+- osu! WP (Windows Phone) - February 4, 2013 (Newest version 2.1.5.0 released April 1, 2014)
 - Rocksmith 2014 (PC, OSX, PS3, X360, PS4, XB1) - October 22, 2013
 - BandFuse: Rock Legends (X360, PS3) - November 19, 2013
 - Record Run (iOS, Android) - May 8, 2014
