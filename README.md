@@ -4,7 +4,7 @@ Selected rhythm games and their initial release dates in chronological order. Th
 
 Different gameplay style = different game. This is the reason you can see some games listed more than once (such as Band Hero).
 
-Finding this info online is a total chore so I just collected it in one place.
+Finding this info online is a total chore so I just collected it in one place. I got three 24h-long IP bans on archive.org while doing my research.
 
 ## Hero and RB series
 - Guitar Hero (PS2) - November 8, 2005
@@ -211,7 +211,7 @@ Finding this info online is a total chore so I just collected it in one place.
 - iosu! (iOS) - May 17, 2017 (Newest version v0.3.1 released Dec 4, 2017)
 - Twitch Sings (PC, macOS) - April 13, 2019
 - Beat Saber - May 21, 2019
-- Queen: Rock Tour - (iOS, Android) - March 1, 2021
+- Queen: Rock Tour (iOS, Android) - March 1, 2021
 - Rocksmith+ (PC, Android, iOS) - September 6, 2022
 
 ## Minigames
