@@ -15,7 +15,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Guitar Hero III Mobile (BREW, J2ME, BlackBerry, Windows Mobile)
   - BREW - December 4, 2007
   - J2ME - March 3, 2008
-  - BB - April 1, 2008 (Newest version 2.2 released September 2, 2009)
+  - BB - April 1, 2008 (Latest version 2.2 released September 2, 2009)
   - WM - April 9, 2008
 - Guitar Hero Carabiner - February 17, 2008
 - Guitar Hero: On Tour (DS) - June 22, 2008
@@ -24,7 +24,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Guitar Hero III: Backstage Pass (J2ME, BREW, BlackBerry)
   - J2ME - July 18, 2008
   - BREW - July 18, 2008
-  - BB - September 3, 2008 (Newest version 1.0.13 released July 30, 2009)
+  - BB - September 3, 2008 (Latest version 1.0.13 released July 30, 2009)
 - Rock Band 2 (X360, PS3, PS2, Wii) - September 14, 2008
 - Guitar Hero World Tour (X360, Wii, PS3, PS2, PC, OSX) - October 26, 2008
 - Guitar Hero III Mobile: Song Pack 1 (J2ME, BREW) - October 2008
@@ -32,14 +32,14 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Guitar Hero World Tour Mobile (J2ME, BREW, BlackBerry, Android, Windows Mobile, N-Gage)
   - BREW - November 13, 2008
   - J2ME - November 13, 2008
-  - BB - February 25, 2009 (Newest version 11.11.1 released January 12, 2010)
-  - Android - March 4, 2009 (Newest version 1.6.8 released 2010)
+  - BB - February 25, 2009 (Latest version 11.11.1 released January 12, 2010)
+  - Android - March 4, 2009 (Latest version 1.6.8 released 2010)
   - WM - 2009
   - N-Gage - August 27, 2009
 - Rock Band Track Pack Vol. 2 (X360, PS3, PS2, Wii) - November 18, 2008
 - Guitar Hero On Tour: Decades (DS) - November 16, 2008
 - Guitar Hero 2nd Edition Carabiner - December 2008
-- Guitar Hero Arcade (Arcade) - March 15, 2009 (Newest version v1.56 released 2014)
+- Guitar Hero Arcade (Arcade) - March 15, 2009 (Latest version v1.56 released 2014)
 - Guitar Hero: Metallica (X360, PS3, Wii, PS2) - March 29, 2009
 - Rock Band Track Pack: Classic Rock (X360, PS3, PS2, Wii) - May 19, 2009
 - Guitar Hero On Tour: Modern Hits (DS) - June 9, 2009
@@ -51,11 +51,11 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Rock Band Mobile (J2ME, Windows Mobile, BlackBerry)
   - J2ME - September 16, 2009
   - WM - September 2009
-  - BB - 2010 (Newest version 1.5.0 released December 14, 2010)
+  - BB - 2010 (Latest version 1.5.0 released December 14, 2010)
 - Rock Band Metal Track Pack (X360, PS3, PS2, Wii) - September 22, 2009
 - Rock Band (iOS, webOS, Android)
   - iOS - October 19, 2009
-  - webOS - 2010 (Newest version 1.2.75 released 2010)
+  - webOS - 2010 (Latest version 1.2.75 released 2010)
   - Android - 2011
 - DJ Hero (PS2, PS3, Wii, X360) - October 27, 2009
 - Band Hero (PS2, PS3, Wii, X360) - November 3, 2009
@@ -65,10 +65,10 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Guitar Hero 5 Mobile (J2ME, BREW, Android, Windows Mobile, webOS, BlackBerry, Windows Phone)
   - J2ME - November 24, 2009
   - BREW - November 24, 2009
-  - Android - 2009 (Newest version 1.3.1 released October 27, 2010)
+  - Android - 2009 (Latest version 1.3.1 released October 27, 2010)
   - WM - 2009
-  - webOS - 2009 (Newest version 1.1.1 released 2010)
-  - BB - December 2010 (Newest version 2.0.0 released August 6, 2010)
+  - webOS - 2009 (Latest version 1.1.1 released 2010)
+  - BB - December 2010 (Latest version 2.0.0 released August 6, 2010)
   - WP - October 21, 2010
 - Guitar Hero: Van Halen (PS2, PS3, Wii, X360) - December 22, 2009
 - Guitar Hero World Tour Mobile: Backstage Pass (BlackBerry, Windows Mobile, J2ME, BREW, Android)
@@ -77,7 +77,7 @@ Finding this info online is a total chore so I just collected it in one place. I
   - J2ME - May 13, 2010
   - BREW - May 13, 2010
   - Android - May 13, 2010
-- Guitar Hero (iOS) - June 7, 2010 (Newest version 2.1.0 released October 28, 2012)
+- Guitar Hero (iOS) - June 7, 2010 (Latest version 2.1.0 released October 28, 2012)
 - Green Day: Rock Band (PS3, Wii, X360) - June 8, 2010
 - Guitar Hero 5 Mobile: More Music (J2ME, BREW) - June 2010
 - DJ Hero Mobile (J2ME, BREW, BlackBerry, Android)
@@ -89,7 +89,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Guitar Hero: Warriors of Rock Mobile (J2ME, BREW, Android, BlackBerry)
   - J2ME - October 7, 2010
   - BREW - October 7, 2010
-  - Android - October 7, 2010 (Newest version 1.2.2 released March 23, 2011)
+  - Android - October 7, 2010 (Latest version 1.2.2 released March 23, 2011)
   - BB - November 23, 2010
 - DJ Hero 2 (PS3, Wii, X360) - October 19, 2010
 - Rock Band 3 (PS3, X360, Wii) - October 26, 2010
@@ -108,10 +108,15 @@ Finding this info online is a total chore so I just collected it in one place. I
 
 ## Other games with 5-fret controller support
 - Frets on Fire (PC, Linux, OSX) - August 3, 2006
+- Frets on Fire Hering mod (PC) - August 12, 2007 (Latest version 1.99a released September 17, 2007)
+- Unsigned (PC, X360) - February 22, 2008 (Latest version v2.0.0.141 released June 13, 2009)
 - Frets on Fire Alarian Mod (PC, OSX, Linux) - April 6, 2008
+- Strings on Speed (PC) - June 11, 2008
 - Rock Revolution (PS3, X360, Wii) - October 15, 2008
 - FoFiX (PC, Linux, OSX) - October 25, 2008
 - PopStar Guitar (Wii, PS2) - November 18, 2008
+- JamLegend (Web) - December 4, 2008
+- Rockfan (PC) - November 19, 2009
 - Phase Shift [Free] (PC) - March 20, 2010
 - SingStar Guitar (PS3) - October 15, 2010
 - Power Gig: Rise of the SixString (PS3, X360) - October 19, 2010
@@ -186,7 +191,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Tap Tap Revenge (iOS) - July 11, 2008
 - Rock Revolution (DS) - October 15, 2008
 - Lips (X360) - November 18, 2008
-- osu! (iOS) - January 21, 2009 (Newest version 0.1.9-1 released 2010)
+- osu! (iOS) - January 21, 2009 (Latest version 0.1.9-1 released 2010)
 - Metalocalypse: Deth Game II (Flash) - 2009
 - Just Dance (Wii) - November 17, 2009
 - American Idol 2 (J2ME) - December 7, 2009
@@ -202,13 +207,13 @@ Finding this info online is a total chore so I just collected it in one place. I
 - osu!stream (iOS, Android) - August 1, 2011
 - Theatrhythm Final Fantasy (3DS, iOS) - February 16, 2012
 - A-Band (X360) - April 13, 2012
-- osu! WP (Windows Phone) - February 4, 2013 (Newest version 2.1.5.0 released April 1, 2014)
+- osu! WP (Windows Phone) - February 4, 2013 (Latest version 2.1.5.0 released April 1, 2014)
 - Rocksmith 2014 (PC, OSX, PS3, X360, PS4, XB1) - October 22, 2013
 - BandFuse: Rock Legends (X360, PS3) - November 19, 2013
 - Record Run (iOS, Android) - May 8, 2014
 - Amplitude (PS4, PS3) - January 5, 2016
 - Rocksmith (iOS) - May 17, 2017
-- iosu! (iOS) - May 17, 2017 (Newest version v0.3.1 released Dec 4, 2017)
+- iosu! (iOS) - May 17, 2017 (Latest version v0.3.1 released Dec 4, 2017)
 - Twitch Sings (PC, macOS) - April 13, 2019
 - Beat Saber - May 21, 2019
 - Queen: Rock Tour (iOS, Android) - March 1, 2021
