@@ -166,7 +166,8 @@ Finding this info online is a total chore so I just collected it in one place. I
   - Guitarway To Heaven Guns N' Roses Pack - September 23, 2009
 
 ## Other games
-- Beatmania (PS1) - October 1, 1998
+- beatmania (PS1) - October 1, 1998
+- pop'n music (PS1, Dreamcast) - February 25, 1999
 - Dance Dance Revolution (PS1) - April 10, 1999
 - GuitarFreaks (PS1) - July 29, 1999
 - DrumMania (PS2) - March 4, 2000
