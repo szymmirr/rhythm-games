@@ -107,19 +107,24 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Fortnite Festival (PC, macOS, PS4, XB1, Switch, Android, XSX, PS5) - December 9, 2023
 
 ## Other games with 5-fret controller support
-- Frets on Fire (PC, Linux, OSX) - August 3, 2006
+- Frets on Fire (PC, Linux, OSX) - August 3, 2006 (Latest version 1.3.110 released November 5, 2008)
+- Frets on Fire RF-mod (PC, Linux) - December 2, 2006 (Latest version 4.15 released January 4, 2008)
 - Frets on Fire Hering mod (PC) - August 12, 2007 (Latest version 1.99a released September 17, 2007)
+- Guitar Rage (PC) - 2007 (Latest version 2.5 released 2009)
 - Unsigned (PC, X360) - February 22, 2008 (Latest version v2.0.0.141 released June 13, 2009)
-- Frets on Fire Alarian Mod (PC, OSX, Linux) - April 6, 2008
-- Strings on Speed (PC) - June 11, 2008
+- Frets on Fire MFH-Alarian Mod (PC, OSX, Linux) - April 6, 2008 (Latest version 3.017 released October 16, 2008)
+- Strings on Speed (PC) - June 11, 2008 (Latest version 0.9 released September 6, 2009)
 - Rock Revolution (PS3, X360, Wii) - October 15, 2008
-- FoFiX (PC, Linux, OSX) - October 25, 2008
+- FoFiX (PC, Linux, OSX) - October 24, 2008 (Latest version 4.0.0 alpha 1 released November 27, 2010)
 - PopStar Guitar (Wii, PS2) - November 18, 2008
 - JamLegend (Web) - December 4, 2008
-- Rockfan (PC) - November 19, 2009
+- Rockfan (PC) - November 19, 2009 (Latest version 1.10.365 released July 9, 2012)
 - Phase Shift [Free] (PC) - March 20, 2010
+- Pulse (Linux, PC) - May 14, 2010 (Latest version r33 released September 9, 2010)
 - SingStar Guitar (PS3) - October 15, 2010
 - Power Gig: Rise of the SixString (PS3, X360) - October 19, 2010
+- Guitarrero (PC) - December 4, 2010
+- Guitar Gods (PC, OSX, Linux) - June 2, 2013 (Latest version 1.4 released October 11, 2013)
 - Clone Hero (PC, macOS, Linux) - March 1, 2017
 - Phase Shift [Steam] (PC) - April 25, 2019
 - YARG (PC, Linux, macOS) - December 22, 2022
