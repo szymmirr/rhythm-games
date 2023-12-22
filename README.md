@@ -68,7 +68,7 @@ Finding this info online is a total chore so I just collected it in one place. I
   - Android - 2009 (Latest version 1.3.1 released October 27, 2010)
   - WM - 2009
   - webOS - 2009 (Latest version 1.1.1 released 2010)
-  - BB - December 2010 (Latest version 2.0.0 released August 6, 2010)
+  - BB - December 2009 (Latest version 2.0.0 released August 6, 2010)
   - WP - October 21, 2010
 - Guitar Hero: Van Halen (PS2, PS3, Wii, X360) - December 22, 2009
 - Guitar Hero World Tour Mobile: Backstage Pass (BlackBerry, Windows Mobile, J2ME, BREW, Android)
