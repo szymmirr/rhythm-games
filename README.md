@@ -95,7 +95,9 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Rock Band 3 (PS3, X360, Wii) - October 26, 2010
 - Rock Band 3 (DS) - October 26, 2010
 - Rock Band Reloaded (iOS) - December 2, 2010
-- Rock Band Reloaded (J2ME) - December 2010
+- Rock Band Reloaded (J2ME, BlackBerry)
+  - J2ME - December 2010
+  - BB - January 3, 2011 (Latest version 3.0.0 released September 28, 2011)
 - Rock Band Country Track Pack 2 (X360, PS3, Wii) - February 1, 2011
 - Guitar Hero: Warriors of Rock Mobile More Music (J2ME, BREW) - July 2011
 - Rock Band Blitz (PS3, X360) - August 28, 2012
@@ -200,6 +202,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - osu! (iOS) - January 21, 2009 (Latest version 0.1.9-1 released 2010)
 - Metalocalypse: Deth Game II (Flash) - 2009
 - Just Dance (Wii) - November 17, 2009
+- American Idol (J2ME, BlackBerry) - 2009
 - American Idol 2 (J2ME) - December 7, 2009
 - Zombeat (iOS) - December 21, 2009
 - Def Jam Rapstar (PS3, Wii, X360) - October 5, 2010
