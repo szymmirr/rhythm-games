@@ -53,8 +53,8 @@ Finding this info online is a total chore so I just collected it in one place. I
   - WM - September 2009
   - BB - 2010 (Latest version 1.5.0 released December 14, 2010)
 - Rock Band Metal Track Pack (X360, PS3, PS2, Wii) - September 22, 2009
-- Rock Band (iOS, webOS, Android)
-  - iOS - October 19, 2009
+- Rock Band (iOS, Palm webOS, Android)
+  - iOS - October 19, 2009 (Latest version 1.3.54 released November 30, 2010)
   - webOS - 2010 (Latest version 1.2.75 released 2010)
   - Android - 2011
 - DJ Hero (PS2, PS3, Wii, X360) - October 27, 2009
@@ -62,7 +62,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Band Hero (DS) - November 3, 2009
 - LEGO Rock Band (PS3, Wii, X360) - November 3, 2009
 - LEGO Rock Band (DS) - November 3, 2009
-- Guitar Hero 5 Mobile (J2ME, BREW, Android, Windows Mobile, webOS, BlackBerry, Windows Phone)
+- Guitar Hero 5 Mobile (J2ME, BREW, Android, Windows Mobile, Palm webOS, BlackBerry, Windows Phone)
   - J2ME - November 24, 2009
   - BREW - November 24, 2009
   - Android - 2009 (Latest version 1.3.1 released October 27, 2010)
