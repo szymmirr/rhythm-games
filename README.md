@@ -121,7 +121,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - PopStar Guitar (Wii, PS2) - November 18, 2008
 - JamLegend (Web) - December 4, 2008
 - Rockfan (PC) - November 19, 2009 (Latest version 1.10.365 released July 9, 2012)
-- Phase Shift [Free] (PC) - March 20, 2010
+- Phase Shift [Free] (PC) - March 20, 2010 (Latest version 1.27g released May 3, 2018)
 - Pulse (Linux, PC) - May 14, 2010 (Latest version r33 released September 9, 2010)
 - SingStar Guitar (PS3) - October 15, 2010
 - Power Gig: Rise of the SixString (PS3, X360) - October 19, 2010
