@@ -17,7 +17,7 @@ Finding this info online is a total chore so I just collected it in one place. I
   - J2ME - March 3, 2008
   - BB - April 1, 2008 (Latest version 2.2 released September 2, 2009)
   - WM - April 9, 2008
-- Guitar Hero Carabiner - February 17, 2008
+- Guitar Hero Carabiner - March 2008
 - Guitar Hero: On Tour (DS) - June 22, 2008
 - Guitar Hero: Aerosmith (PS2, PS3, Wii, X360, PC, OSX) - June 29, 2008
 - Rock Band Track Pack Vol. 1 (PS2, Wii) - July 15, 2008
