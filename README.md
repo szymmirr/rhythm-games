@@ -195,12 +195,12 @@ Finding this info online is a total chore so I just collected it in one place. I
 - osu! (PC, macOS) - September 16, 2007
 - Phase (iPod) - November 6, 2007
 - UltraStar Deluxe (PC, macOS, Linux) - December 23, 2007
-- Metalocalypse: Deth Game (Flash) - January 2008
+- Metalocalypse: Deth Toll (Flash) - January 2008
 - Tap Tap Revenge (iOS) - July 11, 2008
 - Rock Revolution (DS) - October 15, 2008
 - Lips (X360) - November 18, 2008
 - osu! (iOS) - January 21, 2009 (Latest version 0.1.9-1 released 2010)
-- Metalocalypse: Deth Game II (Flash) - 2009
+- Metalocalypse: Deth Toll II (Flash) - May 2009
 - Just Dance (Wii) - November 17, 2009
 - American Idol (J2ME, BlackBerry) - 2009
 - American Idol 2 (J2ME) - December 7, 2009
