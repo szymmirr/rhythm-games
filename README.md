@@ -110,6 +110,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 
 ## Other games with 5-fret controller support
 - Frets on Fire (PC, Linux, OSX) - August 3, 2006 (Latest version 1.3.110 released November 5, 2008)
+- Freetar (PC, OSX) - August 19, 2006 (Latest version released November 1, 2006)
 - Frets on Fire RF-mod (PC, Linux) - December 2, 2006 (Latest version 4.15 released January 4, 2008)
 - Guitarfun (Wii, PS2, PC) - July 25, 2007 (Latest version 3.5 released November 23, 2008)
 - Frets on Fire Hering mod (PC) - August 12, 2007 (Latest version 1.99a released September 17, 2007)
@@ -192,7 +193,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - PSP Revolution (PSP) - October 31, 2005
 - Dance Dance Revolution (J2ME, BlackBerry) - May 2, 2006
 - Elite Beat Agents (DS) - November 8, 2006
-- Gunnar Hero (PSP) - March 2007 (Latest version 0.21 released 2007)
+- Gunnar Hero (PSP) - March 17, 2007 (Latest version 0.21 released 2007)
 - Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan 2 (DS) - May 17, 2007
 - Guitar Legend: Get On Stage! (J2ME) - August 30, 2007
 - osu! (PC, macOS) - September 16, 2007
