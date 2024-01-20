@@ -111,6 +111,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 ## Other games with 5-fret controller support
 - Frets on Fire (PC, Linux, OSX) - August 3, 2006 (Latest version 1.3.110 released November 5, 2008)
 - Frets on Fire RF-mod (PC, Linux) - December 2, 2006 (Latest version 4.15 released January 4, 2008)
+- Guitarfun (Wii, PS2, PC) - July 25, 2007 (Latest version 3.5 released November 23, 2008)
 - Frets on Fire Hering mod (PC) - August 12, 2007 (Latest version 1.99a released September 17, 2007)
 - Guitar Rage (PC) - 2007 (Latest version 2.5 released 2009)
 - Unsigned (PC, X360) - February 22, 2008 (Latest version v2.0.0.141 released June 13, 2009)
@@ -120,6 +121,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - FoFiX (PC, Linux, OSX) - October 24, 2008 (Latest version 4.0.0 alpha 1 released November 27, 2010)
 - PopStar Guitar (Wii, PS2) - November 18, 2008
 - JamLegend (Web) - December 4, 2008
+- Guitars On Fire (Wii) - June 27, 2009 (Latest version 1.1 released January 10, 2010‎)
 - Rockfan (PC) - November 19, 2009 (Latest version 1.10.365 released July 9, 2012)
 - Phase Shift [Free] (PC) - March 20, 2010 (Latest version 1.27g released May 3, 2018)
 - Pulse (Linux, PC) - May 14, 2010 (Latest version r33 released September 9, 2010)
@@ -190,6 +192,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - PSP Revolution (PSP) - October 31, 2005
 - Dance Dance Revolution (J2ME, BlackBerry) - May 2, 2006
 - Elite Beat Agents (DS) - November 8, 2006
+- Gunnar Hero (PSP) - March 2007 (Latest version 0.21 released 2007)
 - Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan 2 (DS) - May 17, 2007
 - Guitar Legend: Get On Stage! (J2ME) - August 30, 2007
 - osu! (PC, macOS) - September 16, 2007
@@ -197,6 +200,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - UltraStar Deluxe (PC, macOS, Linux) - December 23, 2007
 - Metalocalypse: Deth Toll (Flash) - January 2008
 - Tap Tap Revenge (iOS) - July 11, 2008
+- Guitarra Gero (PSP) - September 8, 2008 (Latest version 2.5 released August 25, 2009)
 - Rock Revolution (DS) - October 15, 2008
 - Lips (X360) - November 18, 2008
 - osu! (iOS) - January 21, 2009 (Latest version 0.1.9-1 released 2010)
@@ -222,7 +226,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Record Run (iOS, Android) - May 8, 2014
 - Amplitude (PS4, PS3) - January 5, 2016
 - Rocksmith (iOS) - May 17, 2017
-- iosu! (iOS) - May 17, 2017 (Latest version v0.3.1 released Dec 4, 2017)
+- iosu! (iOS) - May 17, 2017 (Latest version v0.3.1 released December 4, 2017)
 - Twitch Sings (PC, macOS) - April 13, 2019
 - Beat Saber - May 21, 2019
 - Queen: Rock Tour (iOS, Android) - March 1, 2021
