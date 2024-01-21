@@ -114,7 +114,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Freetar (PC, OSX) - August 19, 2006 (Latest version released November 1, 2006)
 - Frets on Fire RF-mod (PC, Linux) - December 2, 2006 (Latest version 4.15 released January 4, 2008)
 - Guitar Zero (PC) - January 2007 (Latest version 1.21 released 2007)
-- Guitar Zero 2 (PC) - December 2007 (Latest version 6.3 released August 3, 2008)
+- Guitar Zero 2 (PC) - December 24, 2007 (Latest version 6.3 released August 3, 2008)
 - Guitarfun (Wii, PS2, PC) - July 25, 2007 (Latest version 3.5 released November 23, 2008)
 - Frets on Fire Hering mod (PC) - August 12, 2007 (Latest version 1.99a released September 17, 2007)
 - Guitar Rage (PC) - 2007 (Latest version 2.5 released 2009)
