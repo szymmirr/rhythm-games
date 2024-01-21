@@ -132,7 +132,9 @@ Finding this info online is a total chore so I just collected it in one place. I
 - SingStar Guitar (PS3) - October 15, 2010
 - Power Gig: Rise of the SixString (PS3, X360) - October 19, 2010
 - Guitarrero (PC) - December 4, 2010
+- JamProject (PC, OSX) - April 21, 2011 (Latest version Beta 1 Bronze)
 - Guitar Gods (PC, OSX, Linux) - June 2, 2013 (Latest version 1.4 released October 11, 2013)
+- rocklegend (Web) - May 4, 2014 (Latest version v0.11.4 released November 17, 2019)
 - Clone Hero (PC, macOS, Linux) - March 1, 2017
 - Phase Shift [Steam] (PC) - April 25, 2019
 - YARG (PC, Linux, macOS) - December 22, 2022
