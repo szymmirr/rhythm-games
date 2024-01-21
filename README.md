@@ -109,9 +109,12 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Fortnite Festival (PC, macOS, PS4, XB1, Switch, Android, XSX, PS5) - December 9, 2023
 
 ## Other games with 5-fret controller support
+- PC Guitar Hero Clone (PC) - July 17, 2006 (Latest version 0.3 released July 25, 2006)
 - Frets on Fire (PC, Linux, OSX) - August 3, 2006 (Latest version 1.3.110 released November 5, 2008)
 - Freetar (PC, OSX) - August 19, 2006 (Latest version released November 1, 2006)
 - Frets on Fire RF-mod (PC, Linux) - December 2, 2006 (Latest version 4.15 released January 4, 2008)
+- Guitar Zero (PC) - January 2007 (Latest version 1.21 released 2007)
+- Guitar Zero 2 (PC) - December 2007 (Latest version 6.3 released August 3, 2008)
 - Guitarfun (Wii, PS2, PC) - July 25, 2007 (Latest version 3.5 released November 23, 2008)
 - Frets on Fire Hering mod (PC) - August 12, 2007 (Latest version 1.99a released September 17, 2007)
 - Guitar Rage (PC) - 2007 (Latest version 2.5 released 2009)
@@ -195,6 +198,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Elite Beat Agents (DS) - November 8, 2006
 - Gunnar Hero (PSP) - March 17, 2007 (Latest version 0.21 released 2007)
 - Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan 2 (DS) - May 17, 2007
+- Hot Wheels Hot Rod Rock (Flash) - August 2007
 - Guitar Legend: Get On Stage! (J2ME) - August 30, 2007
 - osu! (PC, macOS) - September 16, 2007
 - Phase (iPod) - November 6, 2007
@@ -204,6 +208,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Guitarra Gero (PSP) - September 8, 2008 (Latest version 2.5 released August 25, 2009)
 - Rock Revolution (DS) - October 15, 2008
 - Lips (X360) - November 18, 2008
+- GuitarStar (PSP) - January 14, 2009 (Latest version 1.02 released February 20, 2009)
 - osu! (iOS) - January 21, 2009 (Latest version 0.1.9-1 released 2010)
 - Metalocalypse: Deth Toll II (Flash) - May 2009
 - Just Dance (Wii) - November 17, 2009
