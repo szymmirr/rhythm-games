@@ -122,13 +122,16 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Unsigned (PC, X360) - February 22, 2008 (Latest version v2.0.0.141 released June 13, 2009)
 - Frets on Fire MFH-Alarian Mod (PC, OSX, Linux) - April 6, 2008 (Latest version 3.017 released October 16, 2008)
 - Strings on Speed (PC) - June 11, 2008 (Latest version 0.9 released September 6, 2009)
+- Guitar Praise (PC, OSX) - September 25, 2008
 - Rock Revolution (PS3, X360, Wii) - October 15, 2008
 - FoFiX (PC, Linux, OSX) - October 24, 2008 (Latest version 4.0.0 alpha 1 released November 27, 2010)
 - PopStar Guitar (Wii, PS2) - November 18, 2008
 - JamLegend (Web) - December 4, 2008
 - Guitars On Fire (Wii) - June 27, 2009 (Latest version 1.1 released January 10, 2010‎)
+- Guitar Praise Expansion Pack 1 (PC, OSX) - September 2009
 - Rockfan (PC) - November 19, 2009 (Latest version 1.10.365 released July 9, 2012)
 - Phase Shift [Free] (PC) - March 20, 2010 (Latest version 1.27g released May 3, 2018)
+- Guitar Praise Stryper Expansion Pack (PC, OSX) - March 2010
 - Pulse (Linux, PC) - May 14, 2010 (Latest version r33 released September 9, 2010)
 - SingStar Guitar (PS3) - October 15, 2010
 - Power Gig: Rise of the SixString (PS3, X360) - October 19, 2010
@@ -196,6 +199,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - UltraStar (PC) - August 22, 2004
 - Get On Da Mic (PS2) - October 5, 2004
 - Osu! Tatakae! Ouendan (DS) - July 28, 2005
+- Dance Praise (PC) - September 29, 2005
 - PSP Revolution (PSP) - October 31, 2005
 - Dance Dance Revolution (J2ME, BlackBerry) - May 2, 2006
 - Elite Beat Agents (DS) - November 8, 2006
