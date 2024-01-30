@@ -184,10 +184,16 @@ Finding this info online is a total chore so I just collected it in one place. I
 - pop'n music (PS1, Dreamcast) - February 25, 1999
 - Dance Dance Revolution (PS1) - April 10, 1999
 - GuitarFreaks (PS1) - July 29, 1999
+- Pump It Up The Fusion: The 1st N' 2nd Dance Floor (PC) - January 2000
+- Pump It Up The Fusion O.B.G: The 3rd Dance Floor (PC) - July 2000
 - DrumMania (PS2) - March 4, 2000
+- Pump It Up The Fusion O.B.G: The Season Evolution Dance Floor (PC) - November 2000
+- Pump It Up: The Fusion Perfect Collection (PC) - April 2001
+- Pump It Up: The Fusion Premiere (PC) - September 2001
 - StepMania (PC, OSX, Linux) - August 21, 2001
 - Frequency (PS2) - November 20, 2001
 - Britney's Dance Beat (GBA, PS2) - March 26, 2002
+- Pump It Up: BanYa Collection (PC) - May 2002
 - Britney's Dance Beat (PC) - June 20, 2002
 - Taiko no Tatsujin: Tatakon de Dodon ga Don (PS2) - October 24, 2002
 - Amplitude (PS2) - March 25, 2003
@@ -198,6 +204,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - SingStar series ([PS2](https://retrodetect.com/Research/details/245/Every-Singstar-PS-Game), [PS3](https://gamefaqs.gamespot.com/games/franchise/982-singstar), [PS4](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/)) - May 21, 2004
 - UltraStar (PC) - August 22, 2004
 - Get On Da Mic (PS2) - October 5, 2004
+- In The Groove (PS2, PC, OSX) - June 17, 2005
 - Osu! Tatakae! Ouendan (DS) - July 28, 2005
 - Dance Praise (PC) - September 29, 2005
 - PSP Revolution (PSP) - October 31, 2005
@@ -228,6 +235,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Michael Jackson: The Experience (DS) - November 23, 2010
 - Michael Jackson: The Experience (PSP) - November 23, 2010
 - Michael Jackson: The Experience Minigame (Facebook) - November 2010
+- Pulsen (PC) - October 3, 2011
 - Rocksmith (PS3, X360, PC) - October 18, 2011
 - Michael Jackson: The Experience (3DS, iOS, PSV) - November 7, 2011
 - osu!stream (iOS, Android) - August 1, 2011
@@ -242,6 +250,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - iosu! (iOS) - May 17, 2017 (Latest version v0.3.1 released December 4, 2017)
 - Twitch Sings (PC, macOS) - April 13, 2019
 - Beat Saber - May 21, 2019
+- Friday Night Funkin' (PC, macOS, Linux, Web) - October 5, 2020
 - Queen: Rock Tour (iOS, Android) - March 1, 2021
 - Rocksmith+ (PC, Android, iOS) - September 6, 2022
 
