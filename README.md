@@ -230,8 +230,10 @@ Finding this info online is a total chore so I just collected it in one place. I
 - American Idol (J2ME, BlackBerry) - 2009
 - American Idol 2 (J2ME) - December 7, 2009
 - Zombeat (iOS) - December 21, 2009
+- Pole Dance Hero / Pole Dance Party (Flash) - January 7, 2010
 - Def Jam Rapstar (PS3, Wii, X360) - October 5, 2010
 - Dance Central (X360) - November 4, 2010
+- Pole Dance Party 2 (Flash) - November 5, 2010
 - Michael Jackson: The Experience (Wii, PS3, X360) - November 23, 2010
 - Michael Jackson: The Experience (DS) - November 23, 2010
 - Michael Jackson: The Experience (PSP) - November 23, 2010
