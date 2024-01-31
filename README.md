@@ -199,6 +199,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Amplitude (PS2) - March 25, 2003
 - Karaoke Revolution (PS2) - October 24, 2003
 - American Idol (PS2, PC) - November 7, 2003
+- Pump It Up: The Prex 3 (PC) - November 2003
 - American Idol (GBA) - November 18, 2003
 - DJMax Online (PC) - June 13, 2004
 - SingStar series ([PS2](https://retrodetect.com/Research/details/245/Every-Singstar-PS-Game), [PS3](https://gamefaqs.gamespot.com/games/franchise/982-singstar), [PS4](https://www.mobygames.com/game/group:2957/platform:playstation-4/sort:date/)) - May 21, 2004
@@ -235,7 +236,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Michael Jackson: The Experience (DS) - November 23, 2010
 - Michael Jackson: The Experience (PSP) - November 23, 2010
 - Michael Jackson: The Experience Minigame (Facebook) - November 2010
-- Pulsen (PC) - October 3, 2011
+- Pulsen [Free] (PC) - October 3, 2011
 - Rocksmith (PS3, X360, PC) - October 18, 2011
 - Michael Jackson: The Experience (3DS, iOS, PSV) - November 7, 2011
 - osu!stream (iOS, Android) - August 1, 2011
@@ -245,11 +246,13 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Rocksmith 2014 (PC, OSX, PS3, X360, PS4, XB1) - October 22, 2013
 - BandFuse: Rock Legends (X360, PS3) - November 19, 2013
 - Record Run (iOS, Android) - May 8, 2014
+- Pulsen [Steam] (PC) - July 27, 2015
 - Amplitude (PS4, PS3) - January 5, 2016
 - Rocksmith (iOS) - May 17, 2017
 - iosu! (iOS) - May 17, 2017 (Latest version v0.3.1 released December 4, 2017)
 - Twitch Sings (PC, macOS) - April 13, 2019
 - Beat Saber - May 21, 2019
+- Project OutFox (PC, macOS, Linux) - December 13, 2019
 - Friday Night Funkin' (PC, macOS, Linux, Web) - October 5, 2020
 - Queen: Rock Tour (iOS, Android) - March 1, 2021
 - Rocksmith+ (PC, Android, iOS) - September 6, 2022
