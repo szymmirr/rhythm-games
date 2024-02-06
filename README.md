@@ -247,7 +247,9 @@ Finding this info online is a total chore so I just collected it in one place. I
 - osu! WP (Windows Phone) - February 4, 2013 (Latest version 2.1.5.0 released April 1, 2014)
 - Rocksmith 2014 (PC, OSX, PS3, X360, PS4, XB1) - October 22, 2013
 - BandFuse: Rock Legends (X360, PS3) - November 19, 2013
+- osu!droid (Android) - 2014
 - Record Run (iOS, Android) - May 8, 2014
+- opsu! (PC, macOS, Linux, Android) - Jun 30, 2014
 - Pulsen [Steam] (PC) - July 27, 2015
 - Amplitude (PS4, PS3) - January 5, 2016
 - Rocksmith (iOS) - May 17, 2017
