@@ -111,7 +111,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 ## Other games with 5-fret controller support
 - PC Guitar Hero Clone (PC) - July 17, 2006 (Latest version 0.3 released July 25, 2006)
 - Frets on Fire (PC, Linux, OSX) - August 3, 2006 (Latest version 1.3.110 released November 5, 2008)
-- Freetar (PC, OSX) - August 19, 2006 (Latest version released November 1, 2006)
+- Freetar Hero (PC, OSX) - August 19, 2006 (Latest version released November 1, 2006)
 - Frets on Fire RF-mod (PC, Linux) - December 2, 2006 (Latest version 4.15 released January 4, 2008)
 - Guitar Zero (PC) - January 25, 2007
 - Guitar Zero 2 / Frontman (PC) - December 24, 2007 (Latest version 6.3 released August 3, 2008)
