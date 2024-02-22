@@ -4,7 +4,7 @@ Selected rhythm games and their initial release dates in chronological order. Th
 
 Different gameplay style = different game. This is the reason you can see some games listed more than once (such as Band Hero).
 
-Finding this info online is a total chore so I just collected it in one place. I got three 24h-long IP bans on archive.org while doing my research.
+Finding this info online is a total chore so I just collected it in one place. I got more than five 24h-long IP bans on archive.org while doing my research.
 
 ## Hero and RB series
 - Guitar Hero (PS2) - November 8, 2005
@@ -29,7 +29,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Guitar Hero World Tour (X360, Wii, PS3, PS2, PC, OSX) - October 26, 2008
 - Guitar Hero III Mobile: Song Pack 1 (J2ME, BREW) - October 2008
 - AC/DC Live: Rock Band Track Pack (X360, PS3, PS2, Wii) - November 2, 2008
-- Guitar Hero World Tour Mobile (J2ME, BREW, BlackBerry, Android, Windows Mobile, N-Gage)
+- Guitar Hero World Tour Mobile (BREW, J2ME, BlackBerry, Android, Windows Mobile, N-Gage)
   - BREW - November 13, 2008
   - J2ME - November 13, 2008
   - BB - February 25, 2009 (Latest version 11.11.1 released January 12, 2010)
@@ -50,7 +50,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - The Beatles: Rock Band (PS3, Wii, X360) - September 9, 2009
 - Rock Band Mobile (J2ME, Windows Mobile, BlackBerry)
   - J2ME - September 16, 2009
-  - WM - September 2009
+  - WM - September 2009 (Latest version 1.9.90 released 2010)
   - BB - 2010 (Latest version 1.5.0 released December 14, 2010)
 - Rock Band Metal Track Pack (X360, PS3, PS2, Wii) - September 22, 2009
 - Rock Band (iOS, Palm webOS, Android)
@@ -227,7 +227,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - osu! (iOS) - January 21, 2009 (Latest version 0.1.9-1 released 2010)
 - Metalocalypse: Deth Toll II (Flash) - May 2009
 - Just Dance (Wii) - November 17, 2009
-- American Idol (J2ME, BlackBerry) - 2009
+- American Idol (J2ME, BlackBerry, Windows Mobile, Palm OS, Android) - 2009
 - American Idol 2 (J2ME) - December 7, 2009
 - Zombeat (iOS) - December 21, 2009
 - Pole Dance Hero / Pole Dance Party (Flash) - January 7, 2010
