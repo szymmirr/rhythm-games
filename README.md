@@ -238,7 +238,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - Michael Jackson: The Experience (DS) - November 23, 2010
 - Michael Jackson: The Experience (PSP) - November 23, 2010
 - Michael Jackson: The Experience Minigame (Facebook) - November 2010
-- Pulsen [Free] (PC) - October 3, 2011
+- Pulsen [Free] (PC) - October 3, 2011 (Latest version r0014 released November 14, 2012)
 - Rocksmith (PS3, X360, PC) - October 18, 2011
 - Michael Jackson: The Experience (3DS, iOS, PSV) - November 7, 2011
 - osu!stream (iOS, Android) - August 1, 2011
