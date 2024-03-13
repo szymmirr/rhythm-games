@@ -50,6 +50,7 @@ Finding this info online is a total chore so I just collected it in one place. I
 - The Beatles: Rock Band (PS3, Wii, X360) - September 9, 2009
 - Rock Band Mobile (J2ME, Windows Mobile, BlackBerry)
   - J2ME - September 16, 2009
+  - BREW - September 16, 2009
   - WM - September 2009 (Latest version 1.9.90 released 2010)
   - BB - 2010 (Latest version 1.5.0 released December 14, 2010)
 - Rock Band Metal Track Pack (X360, PS3, PS2, Wii) - September 22, 2009
